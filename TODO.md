@@ -1,0 +1,5 @@
+- [x] Update DEFAULT_OUT_DIR and DEFAULT_TMP_DIR in src/main.py to new paths
+- [x] Update hardcoded output paths in src/app_streamlit.py
+- [x] Update test save path in src/generate_panel.py
+- [x] Update argument parser defaults in src/main.py
+- [x] Update comment in src/main.py
